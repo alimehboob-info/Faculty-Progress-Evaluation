@@ -1,0 +1,28 @@
+body {
+    background-image: url('../images/11A.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.btn{
+    width: 70%;
+    display: block;
+    margin: 0  auto;
+    margin-bottom: 12px;
+}
+.size{
+    font-size: 12px;
+    text-align: center;
+    margin-left: 2px;
+}
+.setIconcolor{
+    color: #666666;
+    margin-left: 82px;
+}
+.size1{
+   font-size: 13px; 
+   font-weight: bold;
+   text-align: center;
+}
